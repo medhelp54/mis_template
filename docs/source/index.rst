@@ -1,4 +1,4 @@
-Добро пожаловать в докментацию МИС Медицинский помощник
+Добро пожаловать в документацию МИС Медицинский помощник
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -13,10 +13,10 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
+Содержание
 --------
 
 .. toctree::
 
-   usage
-   api
+   АРМ Администратора
+   Арем Врача
