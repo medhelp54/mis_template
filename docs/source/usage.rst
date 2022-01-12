@@ -1,4 +1,4 @@
-Usage
+АРМ Врача
 =====
 
 .. _installation:
