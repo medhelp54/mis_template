@@ -18,5 +18,5 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   АРМ Администратора
-   Арем Врача
+   :doc:`АРМ Администратора`
+   :doc:`Арем Врача`
