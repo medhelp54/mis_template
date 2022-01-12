@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Добро пожаловать в докментацию МИС Медицинский помощник
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
